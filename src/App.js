@@ -5,7 +5,8 @@ import MovieList from "./components/movieList/MovieList";
 import AddMovie from "./components/AddMovie.js";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import MovieInfo from "./components/movieList/MovieInfo";
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1754211353506398"
+     crossorigin="anonymous"></script>
 function App() {
   const [searching, setSearching] = useState("");
   const [rate, setRate] = useState(0);
